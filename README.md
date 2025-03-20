@@ -1,4 +1,4 @@
-# new_maple_story
+# KakashiStoryGame
 
 A new Flutter project.
 
